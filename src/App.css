@@ -168,7 +168,7 @@ a {
 }
 
 .shape1 {
-  background-image: url(img/11.jpg);
+  background-image: url(/public/img/11.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0vh;
@@ -180,7 +180,7 @@ a {
 }
 
 .shape2 {
-  background-image: url(img/11.jpg);
+  background-image: url(/public/img/11.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0vh;
@@ -406,7 +406,7 @@ a {
 .card-4,
 .card-5,
 .card-6 {
-  background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('img/3.png') center/cover no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('/public/img/3.png') center/cover no-repeat;
 }
 
 .card-btn {
